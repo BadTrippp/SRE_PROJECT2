@@ -1,15 +1,3 @@
-{
-    "dataset": {
-        "created": "Wed, 25 Oct 2023 16:00:53 GMT",
-        "email": "vietnguyen@udacity.com",
-        "id": 2,
-        "role": 0,
-        "token": "RF98HRY3SXPW7U8YOU4T8EYKLSL2PH1RW3OCHQE63VDGWVGBA0",
-        "username": "{{username}}"
-    },
-    "status": {
-        "message": "101: Created.",
-        "records": 1,
-        "success": true
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aaffbc31427759978472ccdab85c32244166f9e1da2c469604a94e512ec9d3e
+size 368
